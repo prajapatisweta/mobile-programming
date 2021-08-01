@@ -1,0 +1,33 @@
+* To create app (need to do everything in cmd in vs code)
+
+==> ionic start myapp3 sidemenu
+	=> select angular framework
+	=> capacitor -> No
+	=> free ionic account -> No
+
+> cd myapp1
+> ionic serve
+* for home page creation
+
+G:\sweta-sem3-practicals\Mobile-programming\myapp1>ionic generate page
+? Name/path of page: src/home
+> ng.cmd generate page src/home --project=app
+CREATE src/app/src/home/home-routing.module.ts (339 bytes)es)
+CREATE src/app/src/home/home.module.ts (458 bytes)     
+CREATE src/app/src/home/home.page.html (123 bytes)     
+CREATE src/app/src/home/home.page.spec.ts (647 bytes)  
+CREATE src/app/src/home/home.page.ts (248 bytes)       
+CREATE src/app/src/home/home.page.scss (0 bytes)       
+UPDATE src/app/app-routing.module.ts (625 bytes)       
+[OK] Generated page!
+
+further editing in home.page.html
+=> content
+
+create button named click(it will run in G:\sweta-sem3-practicals\Mobile-programming\myapp1\src\app\src\home)
+
+edit in home.page.ts
+
+
+
+
